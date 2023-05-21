@@ -22,8 +22,8 @@ My name is Diarra Ndiaye
 <br /><br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youssoudiarrandiaye&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-thiareMohamed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssou-diarra-ndiaye-872b41214/)
-![Gmail Badge](https://img.shields.io/badge/-thiareMohamed-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:youssoudiarrandiaye52@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-DiarraNdiaye-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssou-diarra-ndiaye-872b41214/)
+![Gmail Badge](https://img.shields.io/badge/-DiarraNdiaye-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:youssoudiarrandiaye52@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/_d_specialist/)
 
 
